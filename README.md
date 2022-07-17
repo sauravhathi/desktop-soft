@@ -1,5 +1,5 @@
 # desktop-soft
-desktop soft
+desktop soft with Python, Tkinter
 
 ![image](https://user-images.githubusercontent.com/61316762/179392805-1676089a-33b5-4b5c-a506-85ca9e0a0748.png)
 
